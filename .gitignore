@@ -1,0 +1,6 @@
+# Kit and local test scripts: not part of the entry.
+hidden-spec-cli-01-run-20261122-kit/
+check.ts
+edge-tests.mjs
+trial-test.mjs
+trial-debug.mjs
